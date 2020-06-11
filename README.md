@@ -1,6 +1,6 @@
-# Creative Text Editor
+# Text Editor
 
-### A creative text editor with added functionalities like calculating edit distance and predicting next set of sentences.
+### A text editor with added creative functionalities like calculating edit distance and predicting next set of sentences.
 
 ### Some of the functionalities are:
 
