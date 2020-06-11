@@ -10,3 +10,6 @@
     • Auto-correct
     • Spell check
     • Edit distance game -> calculates steps to reach from one word to the other. 
+    
+
+UI code courtesy : https://www.coursera.org/learn/data-structures-optimizing-performance/home/welcome. 
