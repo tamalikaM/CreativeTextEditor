@@ -11,5 +11,11 @@
     • Spell check
     • Edit distance game -> calculates steps to reach from one word to the other. 
     
+UI code courtesy - Coursera MOOC team
 
-UI code courtesy : https://www.coursera.org/learn/data-structures-optimizing-performance/home/welcome. 
+### Setup instructions:
+
+1. Need Java 1.8 to run this.
+2. Install e(fx) to run the GUI app. Follow www.eclipse.org/efxclipse/install.html.
+
+
