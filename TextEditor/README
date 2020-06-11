@@ -1,0 +1,8 @@
+## Text Editor Application
+
+#Functionalities:
+    • Auto-complete
+    • Spell Check
+    • Spelling suggestions
+    • Markov Text Generation - a game to generate text based on what you entered.
+    • Provide readability score of the text entered(Flesch score).
